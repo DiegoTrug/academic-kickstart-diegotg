@@ -18,18 +18,18 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  title = "Practicante de Mejora Contínua"
+  company = "Extrumex S.A de C.V"
+  company_url = "https://extrumex.com.mx/"
+  location = "Santa Catarina, NL"
+  date_start = "Sept 2018"
+  date_end = "May 2019"
   description = """
-  Responsibilities include:
+  Actividades:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Apoyo en instalación de Línea de Extrusión #1 (JWELL).
+  * Documentación, Estandarización y Capacitación de Línea #1
+  * Creación de Aplicación Móvil para Mantenimiento Preventivo (CheckList App).
   """
 
 [[experience]]
