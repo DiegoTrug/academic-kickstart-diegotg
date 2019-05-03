@@ -20,7 +20,6 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Practicante de Mejora Contínua"
   company = "Extrumex S.A de C.V"
-  company_url = "https://extrumex.com.mx/"
   location = "Santa Catarina, NL"
   date_start = "01/02/06"
   date_end = ""
