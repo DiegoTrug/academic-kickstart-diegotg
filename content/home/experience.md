@@ -22,13 +22,13 @@ date_format = "Jan 2006"
   company = "Extrumex S.A de C.V"
   company_url = "https://extrumex.com.mx/"
   location = "Santa Catarina, NL"
-  date_start = "Sept 2018"
-  date_end = "May 2019"
+  date_start = "01/02/06"
+  date_end = ""
   description = """
   Actividades:
   
   * Apoyo en instalación de Línea de Extrusión #1 (JWELL).
-  * Documentación, Estandarización y Capacitación de Línea #1
+  * Documentación, Estandarización y Capacitación de Línea #1.
   * Creación de Aplicación Móvil para Mantenimiento Preventivo (CheckList App).
   """
 
